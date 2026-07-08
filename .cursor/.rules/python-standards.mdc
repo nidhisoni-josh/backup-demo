@@ -1,3 +1,19 @@
 ---
 alwaysApply: true
 ---
+---
+description: Python Coding Standards
+alwaysApply: true
+---
+
+# Python Standards
+
+Always:
+
+- Use Python 3.12
+- Use type hints
+- Follow PEP 8
+- Use logging instead of print()
+- Handle exceptions gracefully
+- Never hardcode secrets
+- Add docstrings to public functions
