@@ -1,7 +1,4 @@
 ---
-alwaysApply: true
----
----
 description: Python Coding Standards
 alwaysApply: true
 ---
