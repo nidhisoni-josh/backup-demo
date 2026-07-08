@@ -1,3 +1,22 @@
 ---
 alwaysApply: true
 ---
+---
+description: Project Architecture
+alwaysApply: true
+---
+
+# Architecture
+
+Always organize projects using:
+
+backup/
+restore/
+storage/
+config/
+
+Separate business logic from CLI.
+
+Keep functions small.
+
+Use dependency injection where appropriate.

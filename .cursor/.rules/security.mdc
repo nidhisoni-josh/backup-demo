@@ -1,3 +1,14 @@
 ---
+description: Security Guidelines
 alwaysApply: true
 ---
+
+# Security
+
+Never expose credentials.
+
+Validate file paths.
+
+Sanitize user input.
+
+Use environment variables for configuration.
